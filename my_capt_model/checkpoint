@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-7000"
+all_model_checkpoint_paths: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-3000"
+all_model_checkpoint_paths: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-4000"
+all_model_checkpoint_paths: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-5000"
+all_model_checkpoint_paths: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-6000"
+all_model_checkpoint_paths: "C:\\Users\\zhangfc\\PycharmProjects\\captcha-tensorflow\\my_capt_model\\crack_capcha.model-7000"
